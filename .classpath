@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="melibrary.com.genuitec.eclipse.j2eedt.core.MYECLIPSE_JAVAEE_5_CONTAINER"/>
+	<classpathentry kind="src" path="lib"/>
+	<classpathentry exported="true" kind="con" path="com.baidu.bdt.bae.java.SDK_CONTAINER"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/antlr-2.7.7.jar"/>
+	<classpathentry kind="lib" path="lib/antlr-3.4.jar"/>
+	<classpathentry kind="lib" path="lib/antlr-runtime-3.4.jar"/>
+	<classpathentry kind="lib" path="lib/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="lib/asm-3.3.jar"/>
+	<classpathentry kind="lib" path="lib/asm-commons-3.3.jar"/>
+	<classpathentry kind="lib" path="lib/asm-tree-3.3.jar"/>
+	<classpathentry kind="lib" path="lib/cglib-2.2.2.jar"/>
+	<classpathentry kind="lib" path="lib/com.springsource.javax.persistence-2.0.0.jar"/>
+	<classpathentry kind="lib" path="lib/com.springsource.org.apache.commons.collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="lib/com.springsource.org.aspectj.weaver-1.6.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/com.springsource.org.dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="lib/com.springsource.slf4j.api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="lib/commons-fileupload-1.2.2.jar"/>
+	<classpathentry kind="lib" path="lib/commons-io-2.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/commons-lang-2.5.jar"/>
+	<classpathentry kind="lib" path="lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/freemarker-2.3.18.jar"/>
+	<classpathentry kind="lib" path="lib/hibernate-3.6.5.Final.jar"/>
+	<classpathentry kind="lib" path="lib/javassist-3.11.0.GA.jar"/>
+	<classpathentry kind="lib" path="lib/javax.transaction-1.1.1.v201105210645.jar"/>
+	<classpathentry kind="lib" path="lib/ognl-3.0.4.jar"/>
+	<classpathentry kind="lib" path="lib/spring-aop-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-asm-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-beans-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-context-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-core-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-expression-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-jdbc-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-orm-3.0.5.RELEASE.jar" sourcepath="D:/mylibs/springlibs/spring-framework-3.2.2.RELEASE/libs/spring-orm-3.2.2.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="lib/spring-tx-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-web-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/ST4-4.0.4.jar"/>
+	<classpathentry kind="lib" path="lib/stringtemplate-3.2.1.jar"/>
+	<classpathentry kind="lib" path="lib/struts2-convention-plugin-2.3.1.2.jar"/>
+	<classpathentry kind="lib" path="lib/struts2-core-2.3.1.2.jar"/>
+	<classpathentry kind="lib" path="lib/struts2-spring-plugin-2.3.1.2.jar"/>
+	<classpathentry kind="lib" path="lib/xwork-core-2.3.1.2.jar"/>
+	<classpathentry kind="lib" path="lib/struts2-json-plugin-2.3.1.2.jar"/>
+	<classpathentry kind="output" path="WebRoot/WEB-INF/classes"/>
+</classpath>
